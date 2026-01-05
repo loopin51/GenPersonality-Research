@@ -1,4 +1,4 @@
-docs/*
+
 __pycache__
 chroma_db/*
 log/*
